@@ -1,0 +1,26 @@
+# Compiler output
+*.exe
+*.out
+*.o
+*.obj
+/build/
+a.out
+
+# Python and local editor files
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+
+# Generated Minecraft files
+/randomdrop/
+all_items.json
+all_items_loot_table.json
+
+# Local credentials and cases
+.env
+.env.*
+hidden.txt
+
+# Local repository audit
+/docs/
